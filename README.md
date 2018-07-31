@@ -2,8 +2,10 @@ Command your global CLI module to update itself.
 
 For example:
 
+Reference package: [Commander](https://www.npmjs.com/package/commander) 
+
 ```
-  const program = require('commander');    Reference: [Commander](https://www.npmjs.com/package/commander) 
+  const program = require('commander');    
   const package = require(path.join('npm-update-module'));
 
 
