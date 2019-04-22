@@ -1,3 +1,5 @@
+> Deprecated. Do not use this module for CLI updates anymore. 
+
 Command your global CLI module to update itself.
 
 For example:
