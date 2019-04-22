@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/marvindanig/npm-update-module.git"
+    "url": "git+https://github.com/bookiza/npm-update-module.git"
   },
   "keywords": [
     "npm",
@@ -20,7 +20,7 @@
   "license": "MIT",
   "author": "Marvin Danig <marvin@bubbl.in> (https://bubbl.in/marvin)",
   "dependencies": {
-    "executive": "1.1.5",
-    "npm-exists": "0.1.0"
+    "executive": "1.6.3",
+    "npm-exists": "1.0.1"
   }
 }
